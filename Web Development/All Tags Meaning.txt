@@ -1,0 +1,55 @@
+H1, H2, H3, H4, H5, H6 Are used to give the headings
+P Is used to give the text
+<ol> Tag is used to create ordered list that means a numbered list you can create.
+<ul> Tag is used to create unordered list that means bullet list can be created.
+dont forget to use <li> isnside them to create list.
+example :
+<ol>
+<li> Apple <li>
+
+</ol>
+Table tag is used to create. Inside this use <tr> & then <td>. tr means table row & td means is used to give data
+Example :
+<table>
+<tr>
+<td>   </td>
+</tr>
+</table>
+In order to create form that means something which  we can fill.
+Form is used to create sign up. login  pages..
+
+<form> Tag is used for that. Inside label tag is used to give an alternate option to give text above he boxes in form.
+<Input> is used to create boxes. To create different boxes you need to give type in side this tag.
+
+Example :
+
+<input type="password">
+<textarea> this tag is used to create box but bigger boxes. 
+<select> tag is used to create dropdown from which person can select.
+<input type="submit"> & <button>  tags used to create button you can use any one of them.
+
+<style> tag  is used inside head tag to do styling.
+<linK> tag is used to connect html & css file when you create seperate HTML & css file.
+
+Different types of style properties :
+font-size : used to create increase font size.
+font-family: used to change text style
+color : used to change text color
+background- color : for  changing background color.
+Padding : to give space inside the box
+font-style : to make italic.
+font-weight is used to make the tewxt bold
+
+Border is used to create lines around the text
+Borderradius a round and good shape.
+
+Width and height is used to increase the size of everything
+
+<img> tag is usedto give image.
+Exanple : <img   src="name"/>
+
+<a> tag is used to create link that helps you out got to next page.
+Example :
+<a href="link of the page where you want to go"> Click here </a>
+
+center tag makes things to be in the center.

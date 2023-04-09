@@ -1,0 +1,30 @@
+.d,.dd{
+    display: inline-block;
+}
+li{
+    display: inline;
+    padding: 75px;
+}
+.dd{
+    position: absolute;
+    top: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+header{
+    box-shadow: 5px;
+    border-bottom: 3px solid gray;
+}
+.divv{
+    width: 1272px;
+}
+.tbatbotc{
+    position: absolute;
+    top: 800px;
+    width: 600px;
+    height: 700px;
+    line-height: 30px;
+    margin-left: 600px;
+}
